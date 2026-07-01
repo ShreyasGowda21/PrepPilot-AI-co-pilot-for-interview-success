@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-- **Frontend:** [preppilot.vercel.app](https://prep-pilot-ai-co-pilot-for-intervie.vercel.app/)
+- **Frontend:** https://prep-pilot-ai-co-pilot-for-intervie.vercel.app/
 
 
 ---
