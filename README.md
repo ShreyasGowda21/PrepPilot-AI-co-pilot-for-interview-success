@@ -6,8 +6,8 @@
 
 ## 🚀 Live Demo
 
-- **Frontend:** [preppilot.vercel.app](https://preppilot.vercel.app)
-- **Backend API:** [preppilot-api.onrender.com](https://preppilot-api.onrender.com)
+- **Frontend:** [preppilot.vercel.app](https://prep-pilot-ai-co-pilot-for-intervie.vercel.app/)
+
 
 ---
 
@@ -206,7 +206,7 @@ Contributions are welcome! Please follow these steps:
 ## 👨‍💻 Author
 
 **Shreyas KS**
-- GitHub: [@yourusername](https://github.com/ShreyasGowda21)
+- GitHub:(https://github.com/ShreyasGowda21)
 - Email: shreyushreyasgowda4@email.com
 
 ---
