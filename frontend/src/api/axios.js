@@ -3,7 +3,7 @@
 // still send it. Surfaces server errors as normalised Error objects.
 import axios from 'axios';
 
-const baseURL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:5002/api';
+const baseURL = import.meta.env.VITE_API_BASE_URL || 'https://preppilot-ai-co-pilot-for-interview-us1a.onrender.com';
 
 const api = axios.create({
   baseURL,
