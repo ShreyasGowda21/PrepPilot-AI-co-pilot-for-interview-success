@@ -17,7 +17,7 @@ const start = async () => {
         await disconnectDB();
         process.exit(0);
       });
-      // Force-exit after 10s if shutdown stalls
+ 
       setTimeout(() => process.exit(1), 10_000).unref();
     };
 
